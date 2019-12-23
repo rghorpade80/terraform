@@ -4,5 +4,7 @@
 **/my-tf-scripts/*/.tfstate
 **/my-tf-scripts/*/.tfstate.*
 
+**/*/*/.tfstate.*
+
 
 
