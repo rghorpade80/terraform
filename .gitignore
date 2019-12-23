@@ -1,0 +1,8 @@
+**/my-tf-scripts/*/.terraform/*
+
+# .tfstate files
+**/my-tf-scripts/*/.tfstate
+**/my-tf-scripts/*/.tfstate.*
+
+
+
